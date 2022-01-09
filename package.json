@@ -1,13 +1,13 @@
 {
+  "name": "@abhinav-anshul/avyav",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/abhinav-anshul"
+  },
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/abhinav-anshul"
-  },
-  "name": "@abhinav-anshul/avyav",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
