@@ -7,7 +7,7 @@
     "registry": "https://npm.pkg.github.com/abhinav-anshul"
   },
   "name": "@abhinav-anshul/avyav",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
