@@ -1,11 +1,13 @@
 {
-  
   "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "name": "test-component-library",
-  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/abhinav-anshul"
+  },
+  "name": "@abhinav-anshul/avyav",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
